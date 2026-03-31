@@ -6,7 +6,7 @@
 
 
 #### **PROFILE** 
-A highly motivated ICT Multimedia student in the Cape Peninsula University of technology who has a lot of talent in the fields of web development, graphic design and project management. A person who is good at solving problems and prefers to work on the outcomes and learn new technologies.
+A highly motivated ICT Multimedia student in the Cape Peninsula University of technology who has a lot of talent in the fields of web development, graphic design and project management. A person who is good at solving problems and prefers to work on the outcomes and learn new technologies.  
 
 _______________________________________________________________________________________________________________________________________
 #### **CONTACT**
