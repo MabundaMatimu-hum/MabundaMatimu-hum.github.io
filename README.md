@@ -94,7 +94,7 @@ ________________________________________________________________________________
   
 # **Mock Interview Video.**                             
 
-<video src="./Mock Interview Video.mp4" type="video/mp4" controls width="600"></video>
+
 
 
 https://github.com/user-attachments/assets/345058ea-a16c-43f2-9229-174540f2d64b
